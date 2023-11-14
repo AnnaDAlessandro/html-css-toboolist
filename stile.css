@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.titolo{
+    font-size:70px ;
+}
+button{
+    height:30px;
+    width:100px;
+}
+
+.bottone1{
+    background-color: rgb(85, 125, 245);
+    color: white;
+    border: white;
+    border-radius:10px;
+}
+.bottone2{
+    background-color: rgb(250, 250, 250);
+    color: lightgray;
+    border:lightgray;
+    border-radius:10px;
+}
