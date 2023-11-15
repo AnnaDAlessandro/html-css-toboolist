@@ -1,19 +1,31 @@
 *{
-    margin: 1px;
-    padding: 4px;
+    margin: 0px;
+    padding: 0px;
     box-sizing:border-box;
+}
+
+html{
+    font-family:sans-serif;
 }
 main{
     background-color: aliceblue;
+    padding:10 0 10 20;
 }
+
 .contenitore{
     background-color:white;
-    margin:0 auto;
+    margin:30px auto 0 auto;
     width:70%;
     height: 700px;
   }
 .titolo{
-    font-size:70px ;
+    font-size:40px ;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.logo{
+    vertical-align: middle;
+    font-size:50px;
 }
 button{
     height:30px;
@@ -49,32 +61,33 @@ button{
     background-color: rgb(85, 125, 245);
     border-radius:10px;
     color: white;
-    padding:6px;
+    padding:3px;
 }
 
 .q1goals{
     background-color: rgb(123, 66, 210);
     border-radius:10px;
     color: white;
-    padding:6px;
+    padding:3px;
 }
 
 ul {
     list-style-type: none;
+    line-height:150%;
     }
     
 .mobile{
     background-color: rgb(231, 117, 41);
     border-radius:10px;
     color: rgb(255, 255, 255);
-    padding:6px;
+    padding:3px;
 
 }
 .recruiting{
     background-color:lightgreen;
     border-radius:10px;
     color: rgb(255, 255, 255);
-    padding:6px;
+    padding:3px;
 
 }
 
@@ -93,14 +106,14 @@ ul {
     background-color:rgb(240, 51, 209);
     border-radius:10px;
     color: rgb(255, 255, 255);
-    padding:6px;
+    padding:3px;
 }
 
 .sales{
     background-color:rgb(149, 240, 51);
     border-radius:10px;
     color: rgb(255, 255, 255);
-    padding:6px;
+    padding:3px;
 
 }
 
