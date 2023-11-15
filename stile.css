@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 1px;
+    padding: 4px;
     box-sizing:border-box;
 }
 .titolo{
@@ -14,12 +14,84 @@ button{
 .bottone1{
     background-color: rgb(85, 125, 245);
     color: white;
-    border: white;
+    border-color: white;
     border-radius:10px;
 }
 .bottone2{
     background-color: rgb(250, 250, 250);
     color: lightgray;
-    border:lightgray;
+    border-color:lightgray;
     border-radius:10px;
 }
+ h1{
+    font-size:30px;
+ }
+
+.fatto{
+     background: white;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        border-style:solid;
+        border-color: lightgreen;
+        color: lightgreen;
+}
+.editorial{
+    background-color: rgb(85, 125, 245);
+    border-radius:10px;
+    color: white;
+    padding:6px;
+}
+
+.q1goals{
+    background-color: rgb(123, 66, 210);
+    border-radius:10px;
+    color: white;
+    padding:6px;
+}
+
+ul {
+    list-style-type: none;
+    }
+    
+.mobile{
+    background-color: rgb(231, 117, 41);
+    border-radius:10px;
+    color: rgb(255, 255, 255);
+    padding:6px;
+
+}
+.recruiting{
+    background-color:lightgreen;
+    border-radius:10px;
+    color: rgb(255, 255, 255);
+    padding:6px;
+
+}
+
+.nonfatto{
+    background: white;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        border-style:solid;
+        border-color: red;
+        color: red;
+
+}
+
+.website{
+    background-color:rgb(240, 51, 209);
+    border-radius:10px;
+    color: rgb(255, 255, 255);
+    padding:6px;
+}
+
+.sales{
+    background-color:rgb(149, 240, 51);
+    border-radius:10px;
+    color: rgb(255, 255, 255);
+    padding:6px;
+
+}
+
