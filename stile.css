@@ -3,6 +3,15 @@
     padding: 4px;
     box-sizing:border-box;
 }
+main{
+    background-color: aliceblue;
+}
+.contenitore{
+    background-color:white;
+    margin:0 auto;
+    width:70%;
+    height: 700px;
+  }
 .titolo{
     font-size:70px ;
 }
